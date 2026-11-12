@@ -16,7 +16,7 @@
 
   const FALLBACK = {
     eventTitle: "2026 三重區·地區友好總會",
-    theme: "邁向創立100週年・躍躍前進之年",
+    theme: "邁向創立100週年・勇躍前進之年",
     welcome: "歡迎詞待主辦單位確認",
     sessions: [],
     venue: { name: "活動地點待填", address: "完整地址待填", googleMapsUrl: "" }

@@ -1,7 +1,7 @@
 /* 自動產生，請勿手改：來源為 event-data.json（執行 python tools/sync_event_data.py 更新） */
 window.EVENT_DATA = {
   "eventTitle": "2026 三重區·地區友好總會",
-  "theme": "邁向創立100週年・躍躍前進之年",
+  "theme": "邁向創立100週年・勇躍前進之年",
   "welcome": "誠摯邀請您來共同參與",
   "sessions": [
     {
