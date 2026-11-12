@@ -159,7 +159,7 @@ button{font:inherit}
   background:linear-gradient(#f7f1e5 0,#fffdf8 38%,#fffdf8 100%);overflow:hidden}
 .info-hero{position:relative;text-align:center;padding:34px 0 30px}
 .hero-ribbon{position:absolute;left:-20px;right:-20px;width:calc(100% + 40px);top:60px;height:220px;pointer-events:none}
-.eyebrow{position:relative;margin:18px 0 0;color:var(--gold);letter-spacing:.24em;font-size:14px;font-weight:500}
+.eyebrow{position:relative;margin:18px 0 0;color:var(--gold);letter-spacing:.16em;font-size:clamp(17px,4.8vw,21px);font-weight:700;line-height:1.5}
 .hero-100{position:relative;font-family:Georgia,"Times New Roman",serif;font-style:italic;font-weight:700;
   font-size:clamp(96px,30vw,150px);line-height:1;margin-top:6px;
   background:linear-gradient(170deg,#fff3c4 0,#e9c77c 30%,#b58a42 62%,#8c6420 100%);
