@@ -1,0 +1,43 @@
+{
+  "eventTitle": "2026 三重區·地區友好總會",
+  "theme": "邁向創立100週年・躍躍前進之年",
+  "welcome": "誠摯邀請您來共同參與",
+  "sessions": [
+    {
+      "name": "同安地區",
+      "date": "2026-11-28",
+      "startTime": "19:50",
+      "endTime": ""
+    },
+    {
+      "name": "正義地區",
+      "date": "2026-11-29",
+      "startTime": "10:00",
+      "endTime": ""
+    },
+    {
+      "name": "文化地區",
+      "date": "2026-12-11",
+      "startTime": "19:50",
+      "endTime": ""
+    },
+    {
+      "name": "厚德地區",
+      "date": "2026-12-13",
+      "startTime": "13:30",
+      "endTime": ""
+    },
+    {
+      "name": "大同地區",
+      "date": "2026-12-13",
+      "startTime": "16:00",
+      "endTime": ""
+    }
+  ],
+  "venue": {
+    "name": "台灣創價學會－三重文化會館",
+    "address": "新北市三重區重新路五段609巷2號3樓之一",
+    "embedMap": true,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E5%8C%97%E5%B8%82%E4%B8%89%E9%87%8D%E5%8D%80%E9%87%8D%E6%96%B0%E8%B7%AF%E4%BA%94%E6%AE%B5609%E5%B7%B72%E8%99%9F3%E6%A8%93%E4%B9%8B%E4%B8%80"
+  }
+}
